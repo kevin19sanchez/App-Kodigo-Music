@@ -4,7 +4,7 @@ Una Single Page Application (SPA) desarrollado con React que simula las funciona
 
 🚀 Demo en Vivo
 
-🔗 [](https://kodigo-music-swart.vercel.app/)
+🔗 (https://kodigo-music-swart.vercel.app/)
 
 📋 Descripción del Proyecto
 
@@ -39,4 +39,4 @@ Deployment: Vercel
 👨‍💻 Autor
 Kevin Sanchez
 
-GitHub App-kodigo-Music:[](https://github.com/kevin19sanchez/App-Kodigo-Music.git)
+GitHub App-kodigo-Music:(https://github.com/kevin19sanchez/App-Kodigo-Music.git)
